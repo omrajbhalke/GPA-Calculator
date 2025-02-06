@@ -1,7 +1,5 @@
 # GPA-Calculator
 
-# Vertical CGPA Calculator
-
 ## Overview
 The **Vertical CGPA Calculator** is a simple web-based application that allows students to calculate their **Cumulative Grade Point Average (CGPA)** based on their subject marks and credits. It dynamically generates input fields based on the number of subjects entered and calculates CGPA using predefined grade point criteria.
 
